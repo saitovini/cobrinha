@@ -1,2 +1,3 @@
 # cobrinha
-jgo da cobrinha
+Jogo da cobrinha para DevC++
+ 
